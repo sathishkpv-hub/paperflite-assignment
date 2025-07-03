@@ -1,0 +1,6 @@
+com\assesment\spring\data\mongodb\model\AccountEntity.class
+com\assesment\spring\data\mongodb\controller\AccountController.class
+com\assesment\spring\data\mongodb\repository\CustomerRepository.class
+com\assesment\spring\data\mongodb\model\CustomerEntity.class
+com\assesment\spring\data\mongodb\repository\AccountRepository.class
+com\assesment\spring\data\mongodb\SpringBootDataMongodbApplication.class
