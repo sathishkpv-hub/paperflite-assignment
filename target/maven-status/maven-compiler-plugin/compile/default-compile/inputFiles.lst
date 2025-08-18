@@ -1,6 +1,7 @@
 /workspace/src/main/java/com/assesment/spring/data/mongodb/controller/CustomerController.java
 /workspace/src/main/java/com/assesment/spring/data/mongodb/dto/ApiResponse.java
 /workspace/src/main/java/com/assesment/spring/data/mongodb/service/CustomerService.java
+/workspace/src/main/java/com/assesment/spring/data/mongodb/controller/SampleController.java
 /workspace/src/main/java/com/assesment/spring/data/mongodb/repository/CustomerRepository.java
 /workspace/src/main/java/com/assesment/spring/data/mongodb/SpringBootDataMongodbApplication.java
 /workspace/src/main/java/com/assesment/spring/data/mongodb/serviceimpl/CustomerServiceImpl.java
